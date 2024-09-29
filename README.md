@@ -13,6 +13,7 @@ Below is the tree structure of the repository. The code is organized to easily r
 │   ├── test/                # Test images
 │   ├── train.csv            # Training labels
 │   └── test.csv             # Test file names
+├── notebooks/               # jupyter notebook files for EDA and training
 ├── src/                     # Source code directory
 │   ├── dataset.py           # Custom dataset implementation
 │   ├── transforms.py        # Data augmentation and transformation logic
