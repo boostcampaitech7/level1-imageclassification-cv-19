@@ -21,7 +21,7 @@ Below is the tree structure of the repository. The code is organized to easily r
 │   ├── loss.py              # Custom loss functions (e.g., Focal Loss)
 │   ├── trainer.py           # Training and evaluation logic
 │   └── utils.py             # Utility functions
-├── train.py                 # Training script
+├── main.py                  # Training script
 ├── inference.py             # Inference script
 ├── requirements.txt         # Python dependencies
 └── README.md                # This readme file
