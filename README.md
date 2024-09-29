@@ -79,7 +79,7 @@ pip install -r requirements.txt
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/sketch-image-classification.git
+   git clone https://github.com/boostcampaitech7/level1-imageclassification-cv-19.git
    cd sketch-image-classification
    ```
 2. **Prepare the data**:
@@ -111,3 +111,9 @@ The output.csv file will contain the class probabilities for each image in the e
 ![image](https://github.com/user-attachments/assets/8775217e-7884-444e-95d3-680fa109cf29)
 
 After training the model on the provided dataset, we achieved an accuracy of **0.9390%** on the evaluation dataset. Our final submission ranked **3rd place** on the competition leaderboard.
+
+## External Links
+
+[StageAI](https://stages.ai/auth/signin?callbackUrl=%2Fcompetitions%2F307%2Fboard%2Fcommunity)
+
+[ImageNet-Sketch](https://github.com/HaohanWang/ImageNet-Sketch?tab=readme-ov-file)
