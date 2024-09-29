@@ -100,7 +100,7 @@ python train.py --epochs 50 --batch-size 32 --lr 1e-4
 After training, generate predictions for the test set by running:
 
 ```bash
-python inference.py --model-path saved_model.pth --output predictions.csv
+python inference.py --model-path saved_model.pth --output output.csv
 ```
 
 5. **Submit results**:
